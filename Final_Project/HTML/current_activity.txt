@@ -1,0 +1,1 @@
+<div class='progress-box'>                             <h5>Standing<span class='color-heading pull-right'>100.0%</span></h5>                             <div class='progress'>                                 <div class='progress-bar bg-color-base' role='progressbar' data-width='100.0'></div>                             </div>                         </div>

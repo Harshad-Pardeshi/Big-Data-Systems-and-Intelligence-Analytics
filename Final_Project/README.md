@@ -1,6 +1,7 @@
-# Final Project for INFO 7245- Big-Data-Systems-and-Intelligence-Analytics
-<br />
 # Human Activity Recognition
+<br />
+INFO 7245- Big-Data-Systems-and-Intelligence-Analytics <br />
+Final Project <br />
 <br />
 <b>Problem Statement</b>: Predict Human Activity and classify them into WALKING, WALKING UPSTAIRS, WALKING DOWNSTAIRS, SITTING, STANDING and LAYING </br  >
 </br  >
@@ -23,11 +24,20 @@
 <b>Steps Completed</b>: </br  >
 •	Importing data </br  >
 •	Exploratory Data Analysis </br  >
-•	Implementing Standard Neural Networks </br  >
+•	Implementing Machine Learning algorithms </br  >
  >o	Decision Tree </br  >
  >o	K Nearest Neighbors </br  >
  >o	SVC </br  >
  >o	Gaussian Naïve Bayes </br  >
  >o	Quadratic Discriminant Analysis </br  >
-•	Implementing Recurrent Neural Network (RNN) </br  >
+•	Implementing Recurrent Neural Network (RNN) with keras</br  >
+•	Implementing Long-Short Term Memory (LSTM) with tensorflow</br  >
+•	Created Android App to track Human Activity using Accelerometer and Gyroscope sensors</br  >
  </br  >
+<b>Results</b>: </br  >
+LSTM has a better accuracy at predicting the human activity as compared to any machine learning algotihm or even RNN. RNN has 81.81% accuracy where as LSTM has 88.97% accuracy</br  >
+ </br  >
+<b>Future Scope</b>: </br  >
+•	Inclusion of third variable to improve prediction accuracy </br  >
+•	Android App enhancements with user better interface </br  >
+•	Implement flask API to display output on a remote server </br  >
